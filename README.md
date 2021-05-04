@@ -2,7 +2,7 @@
 
 ![alt text](game_shot.jpg)
 
-This is a Python-based (using the Pygame module) version of Tetris (unofficial, of course). Code by hexadeci-male and Tetris by Alexey Pajitnov. Other things made by other groups and people that I couldn't be bothered to blah-blah-blah bleeeeeehhhhhhh............
+This is a Python-based (using the Pygame module) version of Tetris (unofficial, of course). Code by hexadeci-male and Tetris by Alexey Pajitnov. Other things made by other groups and people that I couldn't trace back to their origins.
 
 # REQUIREMENTS:
 
