@@ -46,6 +46,8 @@ Play around with it or whatever if you're good at coding/python
 
 If someone wants to make a pyinstaller/py2app mac executable of this game (icons are included), that would be awesome and I would be grateful. I tried it myself but I failed spectacularly for various reasons. :(
 
-# NONSENSE:
+# LICENSE:
+
+This software is licensed under MIT.
 
 This was more a coding exercise rather than a full-fledged game dev project. No copyright infringement intended - just needed some assets from the interwebz. Apart from my code, I have no real idea who made what.
