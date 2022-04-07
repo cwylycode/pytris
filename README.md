@@ -2,7 +2,7 @@
 
 ![alt text](game_shot.jpg)
 
-This is a Python-based (using the Pygame module) version of Tetris (unofficial, of course). Code by hexadeci-male and Tetris by Alexey Pajitnov. Other things made by other groups and people that I couldn't trace back to their origins.
+This is a Python-based (using the Pygame module) version of Tetris (unofficial, of course). Code by cwylycode and Tetris by Alexey Pajitnov. Other things made by other groups and people that I couldn't trace back to their origins.
 
 # REQUIREMENTS:
 
@@ -40,7 +40,7 @@ You can replace the sounds/graphics files with your own if you want...just make 
 
 # SOURCE CODE:
 
-You can find the source code and other stuff for this game on my GitHub (https://github.com/hexadeci-male)
+You can find the source code and other stuff for this game on my GitHub (https://github.com/cwylycode)
 
 Play around with it or whatever if you're good at coding/python
 

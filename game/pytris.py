@@ -1,9 +1,9 @@
 """
 Python Tetris
-Code by hexadeci-male - Tetris by Alexey Pajitnov
+Code by cwylycode - Tetris by Alexey Pajitnov
 All other stuff made by...other people
 
-This source code came from GitHub: https://github.com/hexadeci-male/pytris
+This source code came from GitHub: https://github.com/cwylycode/pytris
 """
 
 #-----Import modules and initialize engine
@@ -466,7 +466,7 @@ class Gameplay:
 	pause_text = (
 		Graphics.font_yuge.render("Python",True,Graphics.color_black),
 		Graphics.font_yuge.render("Tetris",True,Graphics.color_black),
-		Graphics.font_small.render("Code by hexadeci-male",True,Graphics.color_black),
+		Graphics.font_small.render("Code by cwylycode",True,Graphics.color_black),
 		Graphics.font_small.render("Tetris by Alexey Pajitnov",True,Graphics.color_black),
 		Graphics.font_small.render("All other stuff made by:",True,Graphics.color_black),
 		Graphics.font_small.render("...other people",True,Graphics.color_black),
